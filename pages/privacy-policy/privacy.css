@@ -1,0 +1,34 @@
+html {
+  font-size: 62.5%;
+}
+.privacy-content {
+  margin: 10.8rem auto 12.8rem auto;
+  max-width: 75.2rem;
+}
+.privacy-sarlavha {
+  font-size: 6.4rem;
+  line-height: 7.2rem;
+  margin-bottom: 2.4rem;
+}
+
+.privacy-content {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 752px;
+}
+.privacay-content__poragrf {
+  margin-bottom: 4.8rem;
+}
+.privacy-poragrf {
+  margin-bottom: 2.4rem;
+}
+.privacy-poragrf-second {
+  margin-bottom: 4rem;
+}
+.privacy-title {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  color: rgba(13, 19, 23, 1);
+  line-height: 1.5;
+  letter-spacing: -3%;
+}

@@ -1,0 +1,85 @@
+.main {
+  margin-bottom: 12.8rem;
+}
+.hero {
+  background-color: rgba(220, 234, 245, 1);
+  padding: 12.8rem 5rem;
+  display: flex;
+  align-items: center;
+  gap: 10.2rem;
+  margin-bottom: 12.8rem;
+}
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+.hero-content-heading {
+  display: flex;
+}
+.hero-heading-poragrf {
+  margin-left: 0.8rem;
+  margin-right: 2.4rem;
+}
+.hero-title {
+  font-weight: 600;
+  color: rgba(29, 52, 68, 1);
+  font-size: 6.4rem;
+  line-height: 7.2rem;
+}
+.hero-poragrf {
+  width: 559px;
+  font-size: 1.8rem;
+  line-height: 3rem;
+}
+.hero-contetn-link {
+  font-size: 1.6rem;
+  color: rgba(245, 138, 7, 1);
+  margin-right: 0.8rem;
+}
+.hero-img {
+  width: 621px;
+  height: 493px;
+}
+.all-posts-title {
+  color: rgba(13, 19, 23, 1);
+  font-weight: 600;
+  font-size: 4.8rem;
+  margin-bottom: 6.4rem;
+}
+.allposts-content {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+.allposts-cards {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+.allposts-content-card {
+  background-color: rgba(237, 247, 255, 1);
+  width: 40rem;
+  border-radius: 20px;
+}
+.contetn-img {
+  width: 400px;
+  height: 230px;
+}
+.content-post {
+  margin: 3.2rem;
+}
+.content-sarlavha {
+  font-size: 2.7rem;
+  line-height: 1.5;
+  letter-spacing: -3%;
+  text-align: left;
+  color: rgba(13, 19, 23, 1);
+  margin-bottom: 1.6rem;
+}
+.content-poragrf {
+  margin-bottom: 2.4rem;
+}
+.content-link {
+  color: rgba(245, 138, 7, 1);
+}
